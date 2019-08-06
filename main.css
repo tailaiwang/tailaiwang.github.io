@@ -82,6 +82,18 @@ footer{
 }
 #contact{
     padding-top: 40px;
+    position: relative;
+}
+#contact-social{
+    position: absolute;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 60%);
+}
+#contact-social a{
+    margin: 10px;
 }
 .container-fluid{
     padding: 0;

@@ -59,6 +59,12 @@ footer{
 #showcase{
     padding-top: 40px;
 }
+#hp{
+    background-image: url("assets/images/hp.jpg");
+}
+#hackthenorth{
+    background-image: url("assets/images/htn.jpg");
+}
 #ansccp{
     background-image: url("assets/images/ansccp2.png");
 }
@@ -125,4 +131,9 @@ footer{
     height: 700px;
     width: 100%;
     margin: 30px;
+}
+.experience-tint{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.6);
 }

@@ -59,6 +59,9 @@ footer{
 #showcase{
     padding-top: 40px;
 }
+#climbing{
+    background-image: url("assets/images/climbing.jpg");
+}
 #hp{
     background-image: url("assets/images/hp.jpg");
 }

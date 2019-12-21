@@ -89,6 +89,20 @@ footer{
 #euclid{
     background-image: url("assets/images/euclid.jpeg");
 }
+
+#blog{
+    padding-top: 40px;
+}
+
+#blog a{
+    color: white;
+}
+#blog a:hover{
+    color: rgb(240,240,240);
+}
+#readings{
+    background-image: url("assets/images/books.jpg");
+}
 #contact{
     padding-top: 40px;
     position: relative;
@@ -139,4 +153,28 @@ footer{
     height: 100%;
     width: 100%;
     background-color: rgba(0,0,0,0.6);
+}
+.blog-inner{
+    height: 100%;
+    width: 100%;
+    color: white;
+    text-align: left;
+    background-position: center;
+    background-size: cover;
+}
+.blog-post{
+    height: 200px;
+    width: 100%;
+}
+.blog-tint{
+    height:100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.6);
+}
+.blog-cushion{
+    height: 50%;
+}
+.blog-text{
+    padding-left: 20px;
+    transform: translate(0,-50%);
 }

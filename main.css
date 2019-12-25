@@ -103,6 +103,9 @@ footer{
 #readings{
     background-image: url("assets/images/books.jpg");
 }
+#snowboarding{
+    background-image: url("assets/images/snowboarding.jpg");
+}
 #contact{
     padding-top: 40px;
     position: relative;
@@ -165,6 +168,7 @@ footer{
 .blog-post{
     height: 200px;
     width: 100%;
+    padding-top: 20px;
 }
 .blog-tint{
     height:100%;

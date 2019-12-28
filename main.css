@@ -106,6 +106,9 @@ footer{
 #snowboarding{
     background-image: url("assets/images/snowboarding.jpg");
 }
+#first-term{
+    background-image: url("assets/images/waterloo.jpg");
+}
 #contact{
     padding-top: 40px;
     position: relative;

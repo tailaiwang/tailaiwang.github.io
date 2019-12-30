@@ -26,12 +26,15 @@ footer{
     font-size: 35px;
     text-decoration: none;
 }
-#title{
-    margin-top: 10px;
-    margin-left: 10px;
+.blog-spacer{
+    height: 30px;
 }
-
-
+.blog-spacer-tall{
+    height: 50px;
+}
+.blog-image img{
+    width: 100%;
+}
 .container-fluid{
     padding: 0;
 }

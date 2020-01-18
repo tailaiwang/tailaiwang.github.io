@@ -185,3 +185,7 @@ footer{
     padding-left: 20px;
     transform: translate(0,-50%);
 }
+.vcenter {
+    display: flex;
+    align-items: center;
+}

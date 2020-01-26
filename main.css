@@ -109,6 +109,9 @@ footer{
 #first-term{
     background-image: url("assets/images/waterloo.jpg");
 }
+#kobe{
+    background-image: url("assets/images/kobe.jpg");
+}
 #contact{
     padding-top: 40px;
     position: relative;

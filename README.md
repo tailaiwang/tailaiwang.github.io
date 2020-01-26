@@ -1,3 +1,6 @@
 # Personal Website
 
-A portfolio and collection of experiences.
+Attempting (poorly) to blog.
+A portfolio and collection of experiences, now using Google Analytics!
+http://tailaiwang.me/
+

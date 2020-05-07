@@ -147,12 +147,17 @@ footer{
     background-position: center;
     background-size: cover;
 }
+.experience-inner:hover{
+    color: rgba(0,0,0,0);
+}
+
 .experience-cushion{
     height: 50%;
 }
 .experience-text{
     transform: translate(0,-50%);
 }
+
 .experience-long{
     height: 700px;
     width: 100%;
@@ -162,7 +167,15 @@ footer{
     height: 100%;
     width: 100%;
     background-color: rgba(0,0,0,0.6);
+    transition: 0.2s;
 }
+
+.experience-tint:hover{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0);
+}
+
 .blog-inner{
     height: 100%;
     width: 100%;

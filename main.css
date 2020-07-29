@@ -172,15 +172,24 @@ footer{
 .experience-tint{
     height: 100%;
     width: 100%;
-    background-color: rgba(0,0,0,0.6);
+    background-color: rgba(0,0,0,0);
     transition: 0.2s;
+}
+
+.experience-tint .experience-text{
+    color: transparent;
 }
 
 .experience-tint:hover{
     height: 100%;
     width: 100%;
-    background-color: rgba(0,0,0,0);
+    background-color: rgba(0,0,0,0.6);
 }
+
+.experience-tint:hover .experience-text{
+    color: white;
+}
+
 
 .blog-inner{
     height: 100%;

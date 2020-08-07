@@ -1,222 +1,221 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
-body{
-    font-family: "Raleway", sans-serif;
-    padding: none;
+@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
+body {
+  font-family: "Raleway", sans-serif;
+  padding: none;
 }
 
-footer{
-    background-color: rgb(190,190,190,0.6);
-    font-family: "Raleway", sans-serif;
-    padding-top: 30px;
-    margin-top: 50px;
+footer {
+  background-color: rgb(190, 190, 190, 0.6);
+  font-family: "Raleway", sans-serif;
+  padding-top: 30px;
+  margin-top: 50px;
 }
 
-#header{
-    background-color: rgb(190,190,190,0.6);
-    width: 100%;
+#header {
+  background-color: rgb(190, 190, 190, 0.6);
+  width: 100%;
 }
-#header h2{
-    padding-right: 20px;
-    color: white;
+#header h2 {
+  padding-right: 20px;
+  color: white;
 }
-#header h2:hover{
-    color: rgb(240,240,240);
+#header h2:hover {
+  color: rgb(240, 240, 240);
 }
-#logo a{
-    font-size: 35px;
-    text-decoration: none;
-}
-
-#intro{
-   height: 100vh;
-   width: 100%;
-   background-image: url("assets/images/pfp9.jpg");
-   background-position: center;
-   background-size: cover;
-   background-attachment: fixed;
-   background-repeat: no-repeat;
-   position: relative;
-}
-#social{
-    padding-top: 40px;
-    padding-bottom: 40px; 
-    bottom: 0;
-    left: 50%;
-    transform: translate(-50%, 0);
-    position: absolute;
-}
-#social a{
-    margin: 10px;
-    color: white;
+#logo a {
+  font-size: 35px;
+  text-decoration: none;
 }
 
-#social a:hover{
-    color: rgb(240,240,240);
+#intro {
+  height: 100vh;
+  width: 100%;
+  background-image: url("assets/images/pfp9.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  position: relative;
 }
-#about{
-    padding-top: 40px;
+#social {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  position: absolute;
 }
-#showcase{
-    padding-top: 40px;
-}
-#climbing{
-    background-image: url("assets/images/climbing.jpg");
-}
-#hp{
-    background-image: url("assets/images/hp.jpg");
-}
-#hackthenorth{
-    background-image: url("assets/images/htn.jpg");
-}
-#ansccp{
-    background-image: url("assets/images/ansccp2.png");
-}
-#masseyhacks{
-    background-image: url("assets/images/masseyhacksteam.JPG");
-}
-#moduflex{
-    background-image: url("assets/images/moduflex.jpg");
-}
-#athletics{
-    background-image: url("assets/images/athletics.jpg");
-}
-#swim{
-    background-image: url("assets/images/swim.jpg");
-}
-#bch{
-    background-image: url("assets/images/bordercityhacks.jpg");
-}
-#euclid{
-    background-image: url("assets/images/euclid.jpeg");
+#social a {
+  margin: 10px;
+  color: white;
 }
 
-#blog{
-    padding-top: 40px;
+#social a:hover {
+  color: rgb(240, 240, 240);
+}
+#about {
+  padding-top: 40px;
+}
+#showcase {
+  padding-top: 40px;
+}
+#climbing {
+  background-image: url("assets/images/climbing.jpg");
+}
+#hp {
+  background-image: url("assets/images/hp.jpg");
+}
+#hackthenorth {
+  background-image: url("assets/images/htn.jpg");
+}
+#ansccp {
+  background-image: url("assets/images/ansccp2.png");
+}
+#masseyhacks {
+  background-image: url("assets/images/masseyhacksteam.JPG");
+}
+#moduflex {
+  background-image: url("assets/images/moduflex.jpg");
+}
+#athletics {
+  background-image: url("assets/images/athletics.jpg");
+}
+#swim {
+  background-image: url("assets/images/swim.jpg");
+}
+#bch {
+  background-image: url("assets/images/bordercityhacks.jpg");
+}
+#euclid {
+  background-image: url("assets/images/euclid.jpeg");
 }
 
-#blog a{
-    color: white;
-}
-#blog a:hover{
-    color: rgb(240,240,240);
-}
-#readings{
-    background-image: url("assets/images/books.jpg");
-}
-#snowboarding{
-    background-image: url("assets/images/snowboarding.jpg");
-}
-#goldenhack{
-    background-image: url("assets/images/mlh.png");
-}
-#injustice{
-    background-image: url("assets/images/blm.jpg");
-}
-#first-term{
-    background-image: url("assets/images/waterloo.jpg");
-}
-#kobe{
-    background-image: url("assets/images/kobe.jpg");
-}
-#contact{
-    padding-top: 40px;
-    position: relative;
-}
-#contact-social{
-    position: absolute;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    bottom: 0;
-    left: 50%;
-    transform: translate(-50%, 60%);
-}
-#contact-social a{
-    margin: 10px;
-}
-.container-fluid{
-    padding: 0;
-}
-.row{
-    padding: 0;
-    margin: 0;
-}
-.experience{
-    height: 500px;
-    width: 100%;
-    margin: 30px;
-}
-.experience-inner{
-    height: 100%;
-    width: 100%;
-    color: white;
-    text-align: center;
-    background-position: center;
-    background-size: cover;
-}
-.experience-inner:hover{
-    color: rgba(0,0,0,0);
+#blog {
+  padding-top: 40px;
 }
 
-.experience-cushion{
-    height: 50%;
+#blog a {
+  color: white;
 }
-.experience-text{
-    transform: translate(0,-50%);
+#blog a:hover {
+  color: rgb(240, 240, 240);
+}
+#readings {
+  background-image: url("assets/images/books.jpg");
+}
+#snowboarding {
+  background-image: url("assets/images/snowboarding.jpg");
+}
+#goldenhack {
+  background-image: url("assets/images/mlh.png");
+}
+#injustice {
+  background-image: url("assets/images/blm.jpg");
+}
+#first-term {
+  background-image: url("assets/images/waterloo.jpg");
+}
+#kobe {
+  background-image: url("assets/images/kobe.jpg");
+}
+#contact {
+  padding-top: 40px;
+  position: relative;
+}
+#contact-social {
+  position: absolute;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 60%);
+}
+#contact-social a {
+  margin: 10px;
+}
+.container-fluid {
+  padding: 0;
+}
+.row {
+  padding: 0;
+  margin: 0;
+}
+.experience {
+  height: 500px;
+  width: 100%;
+  margin: 30px;
+}
+.experience-inner {
+  height: 100%;
+  width: 100%;
+  color: white;
+  text-align: center;
+  background-position: center;
+  background-size: cover;
+}
+.experience-inner:hover {
+  color: rgba(0, 0, 0, 0);
 }
 
-.experience-long{
-    height: 700px;
-    width: 100%;
-    margin: 30px;
+.experience-cushion {
+  height: 50%;
 }
-.experience-tint{
-    height: 100%;
-    width: 100%;
-    background-color: rgba(0,0,0,0);
-    transition: 0.2s;
+.experience-text {
+  transform: translate(0, -50%);
 }
 
-.experience-tint .experience-text{
-    color: transparent;
+.experience-long {
+  height: 700px;
+  width: 100%;
+  margin: 30px;
+}
+.experience-tint {
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0);
+  transition: 0.2s;
 }
 
-.experience-tint:hover{
-    height: 100%;
-    width: 100%;
-    background-color: rgba(0,0,0,0.6);
+.experience-tint .experience-text {
+  color: transparent;
 }
 
-.experience-tint:hover .experience-text{
-    color: white;
+.experience-tint:hover {
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
+.experience-tint:hover .experience-text {
+  color: white;
+}
 
-.blog-inner{
-    height: 100%;
-    width: 100%;
-    color: white;
-    text-align: left;
-    background-position: center;
-    background-size: cover;
+.blog-inner {
+  height: 100%;
+  width: 100%;
+  color: white;
+  text-align: left;
+  background-position: center;
+  background-size: cover;
 }
-.blog-post{
-    height: 200px;
-    width: 100%;
-    padding-top: 20px;
+.blog-post {
+  height: 200px;
+  width: 100%;
+  padding-top: 20px;
 }
-.blog-tint{
-    height:100%;
-    width: 100%;
-    background-color: rgba(0,0,0,0.6);
+.blog-tint {
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
 }
-.blog-cushion{
-    height: 50%;
+.blog-cushion {
+  height: 50%;
 }
-.blog-text{
-    padding-left: 20px;
-    transform: translate(0,-50%);
+.blog-text {
+  padding-left: 20px;
+  transform: translate(0, -50%);
 }
 .vcenter {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }

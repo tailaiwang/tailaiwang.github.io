@@ -124,6 +124,9 @@ footer {
 #house-divided {
   background-image: url("assets/images/cap.jpg");
 }
+#wsb {
+  background-image: url("assets/images/wsb.png");
+}
 #contact {
   padding-top: 40px;
   position: relative;

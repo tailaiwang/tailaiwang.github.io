@@ -127,6 +127,9 @@ footer {
 #wsb {
   background-image: url("assets/images/wsb.png");
 }
+#aapi {
+  background-image: url("assets/images/aapi.jpeg");
+}
 #contact {
   padding-top: 40px;
   position: relative;

@@ -130,6 +130,9 @@ footer {
 #aapi {
   background-image: url("assets/images/aapi.jpeg");
 }
+#continue {
+  background-image: url("assets/images/continue.jpg");
+}
 #contact {
   padding-top: 40px;
   position: relative;

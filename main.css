@@ -133,6 +133,9 @@ footer {
 #continue {
   background-image: url("assets/images/continue.jpg");
 }
+#glory{
+  background-image: url("assets/images/glory.jpg");
+}
 #contact {
   padding-top: 40px;
   position: relative;

@@ -56,39 +56,6 @@ footer {
 #about {
   padding-top: 40px;
 }
-#showcase {
-  padding-top: 40px;
-}
-#climbing {
-  background-image: url("assets/images/climbing.jpg");
-}
-#hp {
-  background-image: url("assets/images/hp.jpg");
-}
-#hackthenorth {
-  background-image: url("assets/images/htn.jpg");
-}
-#ansccp {
-  background-image: url("assets/images/ansccp2.png");
-}
-#masseyhacks {
-  background-image: url("assets/images/masseyhacksteam.JPG");
-}
-#moduflex {
-  background-image: url("assets/images/moduflex.jpg");
-}
-#athletics {
-  background-image: url("assets/images/athletics.jpg");
-}
-#swim {
-  background-image: url("assets/images/swim.jpg");
-}
-#bch {
-  background-image: url("assets/images/bordercityhacks.jpg");
-}
-#euclid {
-  background-image: url("assets/images/euclid.jpeg");
-}
 
 #blog {
   padding-top: 40px;
@@ -121,12 +88,6 @@ footer {
 #elevate {
   background-image: url("assets/images/elevate.jpg");
 }
-#house-divided {
-  background-image: url("assets/images/cap.jpg");
-}
-#wsb {
-  background-image: url("assets/images/wsb.png");
-}
 #aapi {
   background-image: url("assets/images/aapi.jpeg");
 }
@@ -135,6 +96,9 @@ footer {
 }
 #glory{
   background-image: url("assets/images/glory.jpg");
+}
+#fitness{
+  background-image: url("assets/images/fitness.png");
 }
 #contact {
   padding-top: 40px;

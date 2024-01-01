@@ -100,6 +100,9 @@ footer {
 #fitness{
   background-image: url("assets/images/fitness.png");
 }
+#coop{
+  background-image: url("assets/images/coop.png");
+}
 #contact {
   padding-top: 40px;
   position: relative;
